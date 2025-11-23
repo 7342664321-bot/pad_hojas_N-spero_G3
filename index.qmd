@@ -87,4 +87,6 @@ Las imágenes se procesaron en ImageJ siguiendo un flujo de trabajo estándar:
 
 La segmentación basada en color facilitó el aislamiento del tejido foliar, permitiendo un cálculo más preciso del área y reduciendo la variabilidad asociada al procesamiento manual.
 
+# Resultados 
+jdfnnfnfn
 
